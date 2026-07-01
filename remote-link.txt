@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://recreational-lindsay-camel-sphere.trycloudflare.com/vnc.html
+URL       : https://advancement-expression-coffee-approve.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 17:06:07
+Created   : 2026-07-01 21:17:17
 =======================================================
