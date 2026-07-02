@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eve-context-directory-cir.trycloudflare.com/vnc.html
+URL       : https://repairs-reception-labor-society.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 01:58:19
+Created   : 2026-07-02 08:01:09
 =======================================================
