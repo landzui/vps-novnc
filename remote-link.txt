@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pentium-treasury-tan-ontario.trycloudflare.com/vnc.html
+URL       : https://serve-conduct-encyclopedia-evaluating.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 07:55:07
+Created   : 2026-07-03 12:00:43
 =======================================================
