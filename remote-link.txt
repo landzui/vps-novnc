@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://synthetic-intervention-hostels-potatoes.trycloudflare.com/vnc.html
+URL       : https://bolt-brussels-mainstream-proc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 12:09:37
+Created   : 2026-07-20 16:20:47
 =======================================================
