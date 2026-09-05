@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://max-maker-supply-computational.trycloudflare.com/vnc.html
+URL       : https://string-liquid-technician-advertisers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 17:01:06
+Created   : 2026-09-05 21:46:52
 =======================================================
