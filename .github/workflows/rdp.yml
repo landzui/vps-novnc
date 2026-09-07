@@ -58,7 +58,7 @@ jobs:
             }
             
             Write-Host "🚀 Starting TightVNC server..."
-            Start-Process -FilePath "C:\Program Files\TightVNC\tvnserver.exe" -ArgumentList "-run -localhost no" -WindowStyle Hidden -RedirectStandardOutput "vnc_start.log" -RedirectStandardError "vnc_error.log"
+            Start-Process -FilePath "C:\Program Files\TightVNC\tvnserver.exe" -ArgumentList "-run" -WindowStyle Hidden -RedirectStandardOutput "vnc_start.log" -RedirectStandardError "vnc_error.log"
             Start-Sleep -Seconds 40
             Get-Content "vnc_start.log" -ErrorAction SilentlyContinue | Write-Host
             Get-Content "vnc_error.log" -ErrorAction SilentlyContinue | Write-Host
@@ -76,7 +76,7 @@ jobs:
             for ($i = 1; $i -le $maxPipAttempts; $i++) {
               try {
                 python -m pip install --upgrade pip --timeout 60 2>&1 | Out-File -FilePath "pip_install.log" -Append -Encoding UTF8
-                pip install --force-reinstall numpy novnc websockify==0.13.0 --timeout 60 2>&1 | Out-File -FilePath "pip_install.log" -Append -Encoding UTF8
+                pip install --force-reinstall novnc websockify==0.13.0 --timeout 60 2>&1 | Out-File -FilePath "pip_install.log" -Append -Encoding UTF8
                 Write-Host "✅ Python dependencies installed"
                 break
               } catch {
@@ -182,7 +182,7 @@ jobs:
                 Write-Host "🔄 Restarting VNC server..."
                 Stop-Process -Name "tvnserver" -Force -ErrorAction SilentlyContinue
                 Start-Sleep -Seconds 5
-                Start-Process -FilePath "C:\Program Files\TightVNC\tvnserver.exe" -ArgumentList "-run -localhost no" -WindowStyle Hidden -RedirectStandardOutput "vnc_start.log" -RedirectStandardError "vnc_error.log"
+                Start-Process -FilePath "C:\Program Files\TightVNC\tvnserver.exe" -ArgumentList "-run" -WindowStyle Hidden -RedirectStandardOutput "vnc_start.log" -RedirectStandardError "vnc_error.log"
                 Start-Sleep -Seconds 40
               }
               Start-Sleep -Seconds 2
@@ -215,14 +215,14 @@ jobs:
             }
             
             Write-Host "🌐 Retrieving Cloudflared URL..."
-            $maxAttempts = 180
+            $maxAttempts = 90
             $attempt = 0
             $cloudflaredUrl = ""
             
             do {
               $attempt++
               Write-Host "🔄 Checking Cloudflared URL (attempt $attempt/$maxAttempts)"
-              Start-Sleep -Seconds 3
+              Start-Sleep -Seconds 2
               
               if (Test-Path "cloudflared.log") {
                 try {
@@ -238,7 +238,7 @@ jobs:
               if ($attempt % 20 -eq 0) {
                 Write-Host "🔄 Restarting Cloudflared..."
                 Stop-Process -Name "cloudflared" -Force -ErrorAction SilentlyContinue
-                Start-Sleep -Seconds 3
+                Start-Sleep -Seconds 2
                 Start-Process -FilePath "cloudflared.exe" -ArgumentList "tunnel", "--url", "http://localhost:6080", "--no-autoupdate", "--edge-ip-version", "auto", "--protocol", "http2", "--logfile", "cloudflared.log" -WindowStyle Hidden
                 Start-Sleep -Seconds 40
               }
