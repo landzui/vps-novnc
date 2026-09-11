@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://revised-was-cancel-overnight.trycloudflare.com/vnc.html
+URL       : https://flight-los-individually-guild.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 04:19:23
+Created   : 2026-09-11 09:32:05
 =======================================================
