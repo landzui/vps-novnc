@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://african-responsibility-strong-morris.trycloudflare.com/vnc.html
+URL       : https://heritage-waterproof-regime-dynamic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 04:37:08
+Created   : 2026-09-14 10:32:43
 =======================================================
