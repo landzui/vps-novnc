@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://participate-acknowledged-roman-trinity.trycloudflare.com/vnc.html
+URL       : https://architecture-hall-vendor-armstrong.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 15:17:06
+Created   : 2026-10-04 23:00:48
 =======================================================
