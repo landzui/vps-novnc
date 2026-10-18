@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://plans-artists-existence-inbox.trycloudflare.com/vnc.html
+URL       : https://glen-pensions-brave-genetics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 13:55:48
+Created   : 2026-10-18 18:00:35
 =======================================================
