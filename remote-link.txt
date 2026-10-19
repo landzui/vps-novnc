@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://closer-amazing-written-courts.trycloudflare.com/vnc.html
+URL       : https://bases-queue-likewise-backing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 04:21:22
+Created   : 2026-10-19 10:41:21
 =======================================================
