@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://laws-surprising-sponsored-missions.trycloudflare.com/vnc.html
+URL       : https://narrow-mice-specific-old.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 10:01:25
+Created   : 2026-10-22 15:11:18
 =======================================================
