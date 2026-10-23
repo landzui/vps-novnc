@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ministries-commercial-impressed-threaded.trycloudflare.com/vnc.html
+URL       : https://updates-hawk-argument-walt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 19:05:38
+Created   : 2026-10-23 23:03:32
 =======================================================
