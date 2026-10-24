@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://galaxy-docs-convenience-graph.trycloudflare.com/vnc.html
+URL       : https://husband-jan-broader-semiconductor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 18:04:41
+Created   : 2026-10-24 22:26:15
 =======================================================
