@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://luck-calculations-golden-alternatively.trycloudflare.com/vnc.html
+URL       : https://material-wage-media-outreach.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 20:12:41
+Created   : 2026-11-03 06:22:23
 =======================================================
