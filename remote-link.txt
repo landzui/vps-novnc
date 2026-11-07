@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://marie-concentration-bacteria-carlo.trycloudflare.com/vnc.html
+URL       : https://horizon-lanka-spas-necessary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 20:49:56
+Created   : 2026-11-07 05:42:23
 =======================================================
